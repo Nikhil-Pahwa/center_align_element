@@ -6,3 +6,6 @@ Different ways to center align an element. Support responsive.
 
 ## Using position absolute and translate property
 [Demo](http://vast-surprise.surge.sh)
+
+## Using flex property
+[Demo](http://simple-children.surge.sh)
