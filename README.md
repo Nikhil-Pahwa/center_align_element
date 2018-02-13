@@ -2,4 +2,4 @@
 Different ways to center align an element 
 
 ## Using table and table cell
-[Demo](enchanted-cows.surge.sh)
+[Demo](http://enchanted-cows.surge.sh)
